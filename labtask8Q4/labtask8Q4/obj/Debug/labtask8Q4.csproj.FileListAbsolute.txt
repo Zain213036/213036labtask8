@@ -1,0 +1,4 @@
+C:\Users\asimr\source\repos\labtask8Q4\labtask8Q4\obj\Debug\labtask8Q4.csproj.AssemblyReference.cache
+C:\Users\asimr\source\repos\labtask8Q4\labtask8Q4\obj\Debug\labtask8Q4.Properties.Resources.resources
+C:\Users\asimr\source\repos\labtask8Q4\labtask8Q4\obj\Debug\labtask8Q4.csproj.GenerateResource.cache
+C:\Users\asimr\source\repos\labtask8Q4\labtask8Q4\obj\Debug\labtask8Q4.csproj.CoreCompileInputs.cache

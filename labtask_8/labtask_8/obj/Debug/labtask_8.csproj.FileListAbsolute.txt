@@ -1,0 +1,10 @@
+C:\Users\asimr\source\repos\labtask_8\labtask_8\bin\Debug\labtask_8.exe.config
+C:\Users\asimr\source\repos\labtask_8\labtask_8\bin\Debug\labtask_8.exe
+C:\Users\asimr\source\repos\labtask_8\labtask_8\bin\Debug\labtask_8.pdb
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.csproj.AssemblyReference.cache
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.Form1.resources
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.Properties.Resources.resources
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.csproj.GenerateResource.cache
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.csproj.CoreCompileInputs.cache
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.exe
+C:\Users\asimr\source\repos\labtask_8\labtask_8\obj\Debug\labtask_8.pdb

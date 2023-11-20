@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labtask8Q3", "labtask8Q3\labtask8Q3.csproj", "{18797180-FE59-46BC-8A41-A27053060B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18797180-FE59-46BC-8A41-A27053060B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18797180-FE59-46BC-8A41-A27053060B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18797180-FE59-46BC-8A41-A27053060B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18797180-FE59-46BC-8A41-A27053060B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A865E383-28ED-4C81-AF64-D830C89C514A}
+	EndGlobalSection
+EndGlobal

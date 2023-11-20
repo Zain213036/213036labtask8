@@ -1,0 +1,10 @@
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\bin\Debug\labtask8Q3.exe.config
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\bin\Debug\labtask8Q3.exe
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\bin\Debug\labtask8Q3.pdb
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.csproj.AssemblyReference.cache
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.Form1.resources
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.Properties.Resources.resources
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.csproj.GenerateResource.cache
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.csproj.CoreCompileInputs.cache
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.exe
+C:\Users\asimr\source\repos\labtask8Q3\labtask8Q3\obj\Debug\labtask8Q3.pdb
